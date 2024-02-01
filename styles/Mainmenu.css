@@ -79,6 +79,7 @@ p {
 
 address{
     border: 7px solid Black;
+    margin: auto;
     padding: 5px;
     font-size: 125%;
     font-family:monospace;
